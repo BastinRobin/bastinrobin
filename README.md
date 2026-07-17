@@ -27,8 +27,8 @@ with a strong bias toward **clarity, performance, and real-world usability**.
   (NLP analytics, forecasting, clustering, interactive BI)
 
 - **Fluxor**  
-  Rust + WASM analytics engine  
-  (Polars-based computation, in-browser processing, chart intelligence)
+  Rust analytics engine  
+  (computation, edge processing, chart intelligence)
 
 - **Anthrena** *(in progress)*  
   Autopilot analytics — ask questions, get insights, know what to do next
@@ -39,7 +39,7 @@ with a strong bias toward **clarity, performance, and real-world usability**.
 
 ### Languages & Systems
 - Rust • Go • Python • TypeScript • JavaScript  
-- WebAssembly (WASM) • Arrow • Polars
+- WebAssembly (WASM) • Arrow 
 
 ### Backend & Infrastructure
 - FastAPI • Go services • Node.js  
